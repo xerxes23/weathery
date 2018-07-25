@@ -1,0 +1,26 @@
+{
+  "name": "weathery",
+  "version": "1.0.0",
+  "description": "Weather app with asyncronous code",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xerxes23/weathery.git"
+  },
+  "keywords": [
+    "Node",
+    "JavaScript"
+  ],
+  "author": "Joseph Mendoza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xerxes23/weathery/issues"
+  },
+  "homepage": "https://github.com/xerxes23/weathery#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
