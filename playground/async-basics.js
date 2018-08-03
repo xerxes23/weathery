@@ -1,13 +1,11 @@
-// Async Codd
-
-console.log("Starting up");
+console.log('Starting app');
 
 setTimeout(() => {
-  console.log("Inside of callback");
+  console.log('Inside of callback');
 }, 2000);
 
 setTimeout(() => {
-  console.log("Inside of callback without delay");
+  console.log('Second setTimeout');
 }, 0);
 
-console.log("Finishing up");
+console.log('Finishing up');
